@@ -8,6 +8,11 @@
 h1 { 
 font-size: 2em;
 margin: auto;
-padding-top: 24%;
 text-align: center ;
+}
+.h1_top_text {
+    font-size: 5em;
+    margin: auto;
+    padding-top: 20%;
+    text-align: center;
 }

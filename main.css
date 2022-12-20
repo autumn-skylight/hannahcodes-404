@@ -13,6 +13,14 @@ text-align: center ;
 .h1_top_text {
     font-size: 5em;
     margin: auto;
-    padding-top: 20%;
+    padding-top: 10%;
     text-align: center;
+}
+lord-icon{
+    display: block;
+    margin: auto;
+    padding-top: 12%;
+    align-items: center;
+    align-content: center;
+
 }

@@ -23,7 +23,27 @@ body{
     }
 }
 
-
+.logo {
+    padding: 1vh 1vw;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 0;
+    margin-right: 0;
+  }
+.logo img {
+    height: 5rem;
+    width: 5rem;
+  }
+  @media screen and (max-width: 800px) {
+    .logo {
+      padding: 1vh 1vw;
+      margin-top: auto;
+      margin-bottom: auto;
+      margin-left: 0;
+      margin-right: 0;
+      padding-left: 1em;
+    }
+  }
 
 h1 { 
 font-size: 2em;
@@ -34,7 +54,7 @@ color: var(--light-text-colour);
 .h1_top_text {
     font-size: 5em;
     margin: auto;
-    padding-top: 10%;
+    padding-top: 8%;
     text-align: center;
     color: var(--light-text-colour);
 }
@@ -50,7 +70,7 @@ h1 {
 lord-icon{
     display: block;
     margin: auto;
-    padding-top: 12%;
+    padding-top: 10%;
     align-items: center;
     align-content: center;
 

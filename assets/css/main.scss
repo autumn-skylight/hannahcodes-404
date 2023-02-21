@@ -5,10 +5,11 @@
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
 :root {
-    --light-body-bg-colour: #ffe3f1;
+    --light-body-bg-colour: rgb(255, 197, 122);
+    --old-light-body-bg-colour: #ffe3f1;
     --light-text-colour: black;
-    --text-colour: #ffe3f1;
-    --body-bg-colour: #121212;
+    --text-colour: black;
+    --body-bg-colour: rgb(255, 197, 122);
 
 }
 
